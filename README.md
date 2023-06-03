@@ -1,0 +1,2 @@
+# SYSU-Matrix-Analysis-2023
+This is an implementation of the programming assignment for DCS5202@SYSU: Matrix Analysis (Spring 2023), which includes QR decomposition, image compression using SVD/NMF and data dimensionality reduction and clustering using NMF.
